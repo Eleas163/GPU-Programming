@@ -531,9 +531,6 @@ of version at least 9.0 to support C++14 standards.
 + Submit contributions using [pull requests][GitHub pull requests]
 + Visit a curated list of [awesome parallel computing resources](https://github.com/tsung-wei-huang/awesome-parallel-computing)
 
-# License
-
-Heteroflow is licensed under the [MIT License](./LICENSE).
 
 * * *
 
